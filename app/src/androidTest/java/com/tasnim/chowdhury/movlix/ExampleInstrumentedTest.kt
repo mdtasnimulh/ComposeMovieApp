@@ -1,4 +1,4 @@
-package com.tasnim.chowdhury.composenote
+package com.tasnim.chowdhury.movlix
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

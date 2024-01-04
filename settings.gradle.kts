@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Compose Note"
+rootProject.name = "MovLix"
 include(":app")
  

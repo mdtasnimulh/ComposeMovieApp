@@ -1,4 +1,4 @@
-package com.tasnim.chowdhury.composenote
+package com.tasnim.chowdhury.movlix
 
 import org.junit.Test
 

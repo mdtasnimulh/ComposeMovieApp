@@ -1,4 +1,4 @@
-package com.tasnim.chowdhury.composenote
+package com.tasnim.chowdhury.movlix
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -7,7 +7,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.tasnim.chowdhury.composenote.ui.theme.ComposeNoteTheme
+import com.tasnim.chowdhury.movlix.ui.theme.ComposeNoteTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

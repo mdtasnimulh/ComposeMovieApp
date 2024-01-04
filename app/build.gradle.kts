@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.tasnim.chowdhury.composenote"
+    namespace = "com.tasnim.chowdhury.movlix"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.tasnim.chowdhury.composenote"
+        applicationId = "com.tasnim.chowdhury.movlix"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
